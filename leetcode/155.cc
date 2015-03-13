@@ -1,5 +1,6 @@
 //No.155
 //https://leetcode.com/problems/min-stack/
+//min-stack
 class MinStack {
     stack<int> data;
     stack<int> min;

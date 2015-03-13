@@ -1,5 +1,6 @@
 //No.191
 //https://leetcode.com/problems/number-of-1-bits/
+//Number of 1 bits
 class Solution {
 public:
     int hammingWeight(uint32_t n) {

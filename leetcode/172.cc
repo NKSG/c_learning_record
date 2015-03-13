@@ -1,5 +1,6 @@
 //No.172
 //https://leetcode.com/problems/factorial-trailing-zeroes/
+//factorial_trailing_zeroes
 class Solution{
 public:
     int trailingZeroes(int n){
